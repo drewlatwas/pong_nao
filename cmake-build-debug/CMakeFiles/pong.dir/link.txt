@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/pong.dir/src/MasterGui.cpp.o CMakeFiles/pong.dir/src/main.cpp.o CMakeFiles/pong.dir/pong_automoc.cpp.o  -o pong -rdynamic /home/drewlatwas/Qt/5.8/gcc_64/lib/libQt5Widgets.so.5.8.0 /home/drewlatwas/Qt/5.8/gcc_64/lib/libQt5Gui.so.5.8.0 /home/drewlatwas/Qt/5.8/gcc_64/lib/libQt5Core.so.5.8.0 -Wl,-rpath,/home/drewlatwas/Qt/5.8/gcc_64/lib 

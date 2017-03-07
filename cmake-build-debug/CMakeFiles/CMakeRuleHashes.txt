@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+c30ec5c10d34aff6f1e6502eb88f5ee3 CMakeFiles/pong_automoc
